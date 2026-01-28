@@ -20,7 +20,7 @@ I am documenting my learning progress and adding my own notes, code, and explana
 - Git & GitHub
 
 ## 📚 Progress
-- [x] Introduction to Data Science
+- [ ] Introduction to Data Science
 - [ ] Data Visualization
 - [ ] Data Cleaning
 - [ ] Statistics for Data Science
