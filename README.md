@@ -2,7 +2,7 @@
 
 This repository is my personal fork of Microsoft's **Data Science for Beginners** open-source curriculum.
 
-## 🎯 Purpose
+## Purpose
 I am using this project to build a strong foundation in data science, including:
 - Data analysis
 - Data visualization
@@ -11,7 +11,7 @@ I am using this project to build a strong foundation in data science, including:
 
 I am documenting my learning progress and adding my own notes, code, and explanations as I complete each lesson.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -19,7 +19,7 @@ I am documenting my learning progress and adding my own notes, code, and explana
 - Jupyter Notebooks
 - Git & GitHub
 
-## 📚 Progress
+## Progress
 - [ ] Introduction to Data Science
 - [ ] Data Visualization
 - [ ] Data Cleaning
@@ -27,13 +27,13 @@ I am documenting my learning progress and adding my own notes, code, and explana
 
 (Updated as I progress)
 
-## 🧠 What I’m Learning
+## What I’m Learning
 - How to explore and clean data
 - How to visualize trends and patterns
 - How to think like a data scientist when solving problems
 - How to work with open-source projects and version control
 
-## 🙏 Credits
+## Credits
 Original curriculum by Microsoft:  
 https://github.com/microsoft/Data-Science-For-Beginners
 
